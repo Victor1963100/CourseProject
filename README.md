@@ -49,7 +49,7 @@
 
 5. [№ 5](https://github.com/Victor1963100/CourseProject/issues/8)
 
-6. https://github.com/
+6. [№ 6](https://github.com/Victor1963100/CourseProject/issues/9)
 
 7. https://github.com/
 
