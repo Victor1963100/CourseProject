@@ -51,7 +51,7 @@
 
 6. [№ 6](https://github.com/Victor1963100/CourseProject/issues/9)
 
-7. https://github.com/
+7. [№ 7](https://github.com/Victor1963100/CourseProject/issues/10)
 
 8. https://github.com/
 
