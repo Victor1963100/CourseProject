@@ -41,19 +41,13 @@
 ## **Баг - репорты**
 
 1. [№ 1](https://github.com/Victor1963100/CourseProject/issues/1)
-
 2. [№ 2](https://github.com/Victor1963100/CourseProject/issues/2)
 3. [№ 3](https://github.com/Victor1963100/CourseProject/issues/3)
-
 4. [№ 4](https://github.com/Victor1963100/CourseProject/issues/4)
-
 5. [№ 5](https://github.com/Victor1963100/CourseProject/issues/8)
-
 6. [№ 6](https://github.com/Victor1963100/CourseProject/issues/9)
-
 7. [№ 7](https://github.com/Victor1963100/CourseProject/issues/10)
-
-8. https://github.com/
+8. [№ 8](https://github.com/Victor1963100/CourseProject/issues/11)
 
 ## **Отчёт о проведённом тестировании веб-сервиса**
 
