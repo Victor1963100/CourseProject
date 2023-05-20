@@ -42,8 +42,8 @@
 
 1. [№ 1](https://github.com/Victor1963100/CourseProject/issues/1)
 
-2. [№2](https://github.com/Victor1963100/CourseProject/issues/2)
-3. https://github.com/
+2. [№ 2](https://github.com/Victor1963100/CourseProject/issues/2)
+3. [№ 3](https://github.com/Victor1963100/CourseProject/issues/3)
 
 4. https://github.com/
 
