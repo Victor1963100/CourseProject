@@ -61,4 +61,4 @@
 
 ## **Отчёт о проведённой автоматизации веб - сервиса**
 
-https://github.com/
+https://github.com/Victor1963100/CourseProject/blob/main/Summary.md
