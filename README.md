@@ -36,7 +36,7 @@
 
 ## **План тестирования веб-сервиса покупки тура**
 
-[https://github.com/](https://github.com/Victor1963100/CourseProject/blob/main/Plan.md)
+[План тестированиия](https://github.com/Victor1963100/CourseProject/blob/main/Plan.md)
 
 ## **Баг - репорты**
 
