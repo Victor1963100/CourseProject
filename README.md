@@ -1,6 +1,6 @@
 # Курсовой проект по модулю «Автоматизация тестирования» для профессии «Инженер по тестированию»
 
-## ([![Java CI with Gradle](https://github.com/Victor1963100/CourseProject/actions/workflows/blank.yml/badge.svg?branch=main)](https://github.com/Victor1963100/CourseProject/actions/workflows/blank.yml))
+## [![Java CI with Gradle](https://github.com/Victor1963100/CourseProject/actions/workflows/blank.yml/badge.svg?branch=main)](https://github.com/Victor1963100/CourseProject/actions/workflows/blank.yml)
 
 Курсовой проект представляет собой автоматизацию тестирования комплексного сервиса, взаимодействующего с СУБД и API Банка.
 
