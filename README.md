@@ -40,7 +40,7 @@
 
 ## **Баг - репорты**
 
-1. https://github.com/
+1. [https://github.com/](https://github.com/Victor1963100/CourseProject/issues/1)
 
 2. https://github.com/
 
