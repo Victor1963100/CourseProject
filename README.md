@@ -32,7 +32,7 @@
 
 ## **Требования/документация**
 
-https://github.com/netology-code/CourseProject/blob/main/README.md
+[https://github.com/netology-code/CourseProject/blob/main/README.md](https://github.com/Victor1963100/CourseProject/blob/main/README.md)
 
 ## **План тестирования веб-сервиса покупки тура**
 
